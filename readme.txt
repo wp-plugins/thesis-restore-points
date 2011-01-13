@@ -17,6 +17,8 @@ Ability to restore any of the existing backups with a single click is planned fo
 
 I'd love to get some feedback on this plugin. Feel free to [contact](http://thesify.com/contact).
 
+Thanks to [Gregg](http://www.7thpixel.com/) for the initial idea.
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
